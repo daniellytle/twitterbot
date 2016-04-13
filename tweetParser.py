@@ -93,6 +93,59 @@ states = {
         'Wyoming':50
 }
 
+idToState = {
+25 :"Mississippi",
+36 :"Oklahoma",
+8 :"Delaware",
+23 :"Minnesota",
+14 :"Illinois",
+3 :"Arkansas",
+32 :"New Mexico",
+15 :"Indiana",
+18 :"Louisiana",
+43 :"Texas",
+48 :"Wisconsin",
+16 :"Kansas",
+7 :"Connecticut",
+5 :"California",
+49 :"West Virginia",
+10 :"Georgia",
+28 :"North Dakota",
+38 :"Pennsylvania",
+1 :"Alaska",
+24 :"Missouri"
+,41 :"South Dakota"
+,6 :"Colorado"
+,31 :"New Jersey"
+,47 :"Washington"
+,34 :"New York"
+,33 :"Nevada"
+,20 :"Maryland"
+,13 :"Idaho"
+,50 :"Wyoming"
+,4 :"Arizona"
+,12 :"Iowa"
+,22 :"Michigan"
+,44 :"Utah"
+,45 :"Virginia"
+,37 :"Oregon"
+,26 :"Montana"
+,30 :"New Hampshire"
+,19 :"Massachusetts"
+,40 :"South Carolina"
+,46 :"Vermont"
+,9 :"Florida"
+,11 :"Hawaii"
+,17 :"Kentucky"
+,39 :"Rhode Island"
+,29 :"Nebraska"
+,35 :"Ohio"
+,2 :"Alabama"
+,27 :"North Carolina"
+,42 :"Tennessee"
+,21 :"Maine"
+}
+
 stateIds = {
 1 : {}, 
 2 : {}, 
@@ -179,4 +232,4 @@ for tweet in tweets:
 			continue
 
 for x in stateIds:
-	print "STATE ID: ", x, "\nTweets: ", stateIds[x]
+	print "STATE: ", idToState[x], ' ID: ', x, "\nTweets: ", stateIds[x]

@@ -1,100 +1,100 @@
-STATE ID:  1 
+STATE:  Alaska  ID:  1 
 Tweets:  {}
-STATE ID:  2 
-Tweets:  {720368004941418498L: 'If you liked the Bush administration get it in an annoying package Ted Cruz'}
-STATE ID:  3 
+STATE:  Alabama  ID:  2 
+Tweets:  {720371368785633280L: '@Italians4Trump good glade to hear that go mr trump'}
+STATE:  Arkansas  ID:  3 
 Tweets:  {}
-STATE ID:  4 
-Tweets:  {720368543200509953L: "my brother bought me a bernie sanders sticker for my car window. that's how you know the love is real.", 720368143189696512L: 'Legitimate and realistic fees were paid to family and friends working on Sanders campaigns now being tweeted falsely as "diversions"', 720367599884718080L: 'GO TRUMP ! ! ! https://t.co/iabOhUXkPz', 720367881293135872L: '@realDonaldTrump @DonaldJTrumpJr @EricTrump @SupportersTrump #Trump #NY #PA #DE this on @Reince watch He needs 2 Go https://t.co/tcjYXvQ5mW', 720367559359397888L: '@cliffschecter @clmazin Ted Cruz is a power-mad fuckwit as are all the other sex-negative people in this world.', 720367710845046784L: 'When its all said and done Who are you going to give this country too? You better suck it up! #Trump2016 or #Cruz ! https://t.co/fwtMmdAMHu'}
-STATE ID:  5 
-Tweets:  {720367739064475648L: 'Registering people to vote!:) #feeltheBern #California #primary #june7 #deadline to #register is https://t.co/sd5Scof4M1', 720367527344218115L: "No proof of that has ever surfaced\nJust flapping gums. \nWhere's proof? https://t.co/zsKYZ59iRq", 720367749558611968L: 'I spy @LucyFlores on @MSNBC she was one who was early to #FeelTheBern  https://t.co/IalyzL008f', 720368169668349952L: 'Because @BernieSanders is our last chance to have a voice in our government! #feelthebern #Bernieorbust  https://t.co/RKuVF3M8uT', 720367760266518528L: 'Protest #Verizon by joining #CredoMobile who donates over $80 Million to progressive organizations. #FeelTheBern https://t.co/r5mo2nd5Uq', 720367651017478144L: "@RayDeezyWeezy Cruz is not a citizen of the US. Bernie will make the economy so bad we won't be able to go to college or buy a home...", 720368065519587328L: "#ITrustHillary to side with Verizon's board over Verizon's workers, while @BernieSanders joins their picket line. #FeelTheBern", 720368305995956224L: 'Registering people to vote. #feeltheBern #yesyoucanregisterrepublicanwithusaswell #butreally ?;) https://t.co/iCqnETbDHK', 720368351483068416L: "Demand @Microsoft stop sponsoring Donald Trump's harmful hate speech! https://t.co/k1ca7zFkys #DumpTrump", 720368492432609281L: 'Makes Cruz a bigger jerkoff than I thought. https://t.co/kajkF78oXZ', 720367815530688512L: '@thehill Bernie polls better by 10 points against every Republican candidate.  Hill actually loses to Kasich SMH', 720367961110740993L: 'Absolutely \nSaid the TRUMPBOT\nWITH\nZERO\nFOLLOWERS https://t.co/9ScWTHbfOz'}
-STATE ID:  6 
-Tweets:  {720368341358018563L: 'Black people should vote for Bernie Sanders. https://t.co/rtzLITQBNx', 720367887743987712L: 'Why I support Bernie Sanders https://t.co/8L7rei34gk'}
-STATE ID:  7 
-Tweets:  {720367981725933569L: 'NY #MakeItHappen #Mr.Trump #OurPresidentOurFuture needs all of your vote. Love Life Love Trump https://t.co/4G2qenbNRJ'}
-STATE ID:  8 
+STATE:  Arizona  ID:  4 
+Tweets:  {720371783367397376L: "Bouta takeoff. If I don't make it back to the ground safely, tell my mama I love her and don't vote for Trump."}
+STATE:  California  ID:  5 
+Tweets:  {720371294433226753L: "@TPM that's classic, as Trump is the prime pyramid-swindler.", 720371714794754048L: 'Or "the corrupt middle." Read Bernie\'s Outsider in the White House. https://t.co/Li4QGh9wez', 720370760703868928L: '#NY VOTE 4 TRUMP Like Lori @Lrihendry &amp; Kambree @KamVTV Who Endorse Trump 4 Pres! @KayAdamsB @WilsonE21850ce #USA https://t.co/xMyNbTZee2', 720370211598118912L: "Where's your proof of TC affairs? https://t.co/UQuzHp89rf", 720371595571691520L: 'Great watch on Glass Steagall. #NeverHillary #FeelTheBern #ReleaseTheTranscripts #NYPrimary #bronx #manhattan  https://t.co/Ji07vUZFwk', 720371298589761536L: 'First Family. #TrumpFamily #TrumpKids #Trump2016 @realDonaldTrump @IvankaTrump @DonaldJTrumpJr @EricTrump https://t.co/qfYskOVELQ', 720371208181559297L: 'Just like the @HRC endorses Hillary Clinton, when clearly her right-wing pandering during #ShesWithReagan was more than merely "misspeaking"', 720372182153441280L: '@mariakayy yo dude the earth is getting cold af global warming is a lie #trump', 720371510997745664L: 'Finally a man that gets it! There is no gender remarks. I am equal with men. Not a wall flower.  https://t.co/42qCOy0XJX', 720372065694388224L: "This is one of the things the establishment don't want you to know. https://t.co/aO1cztSmZF", 720371380437405696L: ' NEW #Maryland POLL atest Monmoth pol: Trump 47%, Kasich 27%, Cruz 19% read details: https://t.co/PBnK8dsZkz #MAGA https://t.co/BMFVoC27eb', 720371383885115392L: 'The Trump effect is spiking racist bullying in US schools: Survey https://t.co/arMpbjb01p #2016 https://t.co/qcyqfrKa7x', 720371988250894336L: '@ChrisChristie is MIA on the campaign. Did he take himself out of play? Or did Trump?', 720370312345325569L: 'This tweet has ruined me https://t.co/4bm5FGFomF', 720371970907316224L: "@LarryWebsite @JAMyerson Those Rent a Crowd Business's for political rally's are sure keeping busy between Trump &amp; Sanders Rally's Google It", 720370737840676864L: 'like the @HRC endorses Hillary Clinton, when clearly..her right-wing pandering during #ShesWithRegean was more than merely "misspeaking"'}
+STATE:  Colorado  ID:  6 
+Tweets:  {720370678684262400L: "Hillary Clinton's plan to fight for environmental and climate justice https://t.co/AZf6diXIn9 #Elections2016", 720371744238739456L: "Not gonna lie, I think Ted Cruz gets more crap talked about him than Trump does and it's really funny", 720370816949428225L: 'You can tell she rehearsed this five minutes before the show  https://t.co/wVOeNJA881', 720370669486153728L: "She doesn't know the English language well. What she means to say is....yes he is a sexist, homophobic asshole https://t.co/wVOeNJA881", 720370295400345600L: 'Or some hotel room with your #BabbyDaddy, ehh @amandacarpenter !!! @JillanaLogan @DanScavino @CarmineZozzora @CNN  https://t.co/nMx51lXnFW'}
+STATE:  Connecticut  ID:  7 
+Tweets:  {720371259834572800L: 'Women #Mr.Trump #OurPresidentOurFuture needs you https://t.co/AtTOfNkNyz', 720371262254628864L: 'Sometimes a picture is worth a thousand words.  https://t.co/VMRlpikc73', 720370479383457792L: 'Cruz should be kicked out of the race, I quess once a cheater always a cheater. https://t.co/8PznhkDYo2', 720371582489739264L: "Jane Sanders: New York Daily News interview an 'inquisition' https://t.co/SgaI2NRcYw"}
+STATE:  Delaware  ID:  8 
 Tweets:  {}
-STATE ID:  9 
-Tweets:  {720367893058232320L: 'Transit union &amp; senator back @BernieSanders ahead of New York primary\nhttps://t.co/4ZH8azY7Ve', 720368019109601283L: '@JudgeJeanine @realDonaldTrump if u want to C Trump people come to Fla', 720368412380139521L: '@chidoziemonago @Phil_Lewis_ my point is these football players know nothing about trump but dislike him', 720368448899919874L: 'Exactly, Cruz and Clinton are living proof https://t.co/DGOUJhT395', 720368169311801344L: 'Trump Spokeswoman to Mark Zuckerberg: Check Your Privilege https://t.co/8BloNR8GzT'}
-STATE ID:  10 
-Tweets:  {720367695397593089L: "@JohnQ_6 aye bro I don't want no nigger version of the Trump hat none of that African SnapBack nigher fitted cap crap", 720368377257181188L: 'BREAKING: GOP Official Makes Bombshell Trump Nomination Announcement No One Expected https://t.co/xXGhZM81vO', 720367984531746816L: "We'll find out shortly https://t.co/lU37tQDGZe"}
-STATE ID:  11 
-Tweets:  {720368352728784897L: '@MarkMcknz @realDonaldTrump @tedcruz TRUMP PREZ, NEVER CRUZ, OR WELL VOTE OUT ALL RNC/RINO INCUMBENTS! https://t.co/lpIKxHgUcE'}
-STATE ID:  12 
+STATE:  Florida  ID:  9 
+Tweets:  {720372103271313412L: 'If Donald trump becomes president he will have nothing to govern because every one will most likely have moved to Canada ', 720372118752366592L: 'lol this is a bad take from the same guy who thinks Bernie is winning and https://t.co/lZjRkK1s8N', 720370405278642176L: '#1Reason not to vote for Trump is that he is unelectable.  Say goodbye to the women the independent the Latino and the youth vote.', 720370366732873729L: '@TheReaganWay Ummmmm...What do you call what Cruz does to/with women', 720372151119839232L: "@DaystoTrump That's OK.\nAm STILL voting Trump!  ;-)", 720370527400013824L: 'Shame on you lying Cruz I hope can pay back because you are going to lose everything https://t.co/i4FboA1T9T', 720371903605694464L: 'Trump accusing Cruz of various scandals makes me thing of Sir Francis Drake and his accusations of Spanish Treachery', 720370820950806528L: '@BARRYCUDA3 @CAPTDSPAWN5 12 OF THE 20 MAJOR #OBAMACARE CO-OPS HAVE FAILED&gt;THE REST WILL FAIL SOON ! #TRUMP2016 #UCSB https://t.co/mjhQkKNIBd', 720370414497755136L: '#FeelTheBern - @SenSanders supporters rally in the heart of @nyuniversity #nyu #presidentialelection #Elections2016 https://t.co/RcdBKgUkQH', 720372193918464000L: '@CNN Jane Sanders needs to go find their taxes instead of commenting on things that are above her head.', 720372120610566144L: 'Wa Sq park from press platform. Crowd tarting to fill in. #feelthebern #nyc https://t.co/RjmHGxDEme', 720370870259159040L: '#HillaryClinton in #BrockToTheFuture vapid rerun of #DavidBrock attacks on #Obama from #2008\nhttps://t.co/5nyke9ncVq https://t.co/6ZgZMBkJMk', 720372114461696000L: '@Elsacofunes #2 Reason for not to vote for Trump is that Dem media will destroy him in the general election Remember Romney!!!!'}
+STATE:  Georgia  ID:  10 
+Tweets:  {720371057408905217L: 'Absolutely Ruth! https://t.co/PFbFSdK2KY', 720371929366945792L: "Make Cruz show his birth certificate &amp; proof his mother didn't renounce her citizenship b4 he was born . #MyAdviceToTrump\n#cruzsexscandal", 720371721019199492L: 'Donald trump so fucking ugly and full oh his self.'}
+STATE:  Hawaii  ID:  11 
+Tweets:  {720370334503841795L: '@MacChomhghaill @GOP @cogop @TNGOP @realDonaldTrump @tedcruz TRUMP PREZ, NEVER CRUZ, OR WELL VOTE OUT ALL RNC/RINO INCUMBENTS!', 720370193138982912L: '@joeyyeo13 @realDonaldTrump @tedcruz TRUMP PREZ, NEVER CRUZ, OR WELL VOTE OUT ALL RNC/RINO INCUMBENTS! https://t.co/lpIKxHgUcE'}
+STATE:  Iowa  ID:  12 
+Tweets:  {720371916708585475L: 'Where your lips at 2016 https://t.co/MpkzKrWGKy'}
+STATE:  Idaho  ID:  13 
 Tweets:  {}
-STATE ID:  13 
-Tweets:  {720368521251790850L: '@Emassey678 @SusieLukas @realDonaldTrump shes a nonfzctor wete voteing her out too sll the nonfactor out u go we r done D.C. Trump2016'}
-STATE ID:  14 
-Tweets:  {720368466423717888L: '@CNNSitRoom  Hilary&amp;Trump Are ExposingThemselvesAs Phony , And PeopleAreWaking Up Late In ThePrimaryGigs', 720367749722206208L: '#mood @ Clinton (CTA Green and Pink Lines station) https://t.co/HbGpMlgsuL', 720368198575493120L: 'The time Ted Cruz defended a ban on dildos https://t.co/zayLrfspsf via @motherjones #CruzMasturbation https://t.co/3ZorkMPG1a'}
-STATE ID:  15 
+STATE:  Illinois  ID:  14 
+Tweets:  {720371185691664385L: '@AZEALIABANKS Is This Generation Clayton Remake Probably Gonna Be Monika Lewinsky For Donald Trump https://t.co/w76re2YdNy'}
+STATE:  Indiana  ID:  15 
 Tweets:  {}
-STATE ID:  16 
-Tweets:  {720368071081205761L: '@FoxBusiness @GovernorPataki @realDonaldTrump @TrishIntel I bet 70% hate the GOP/Cruz.  Amazing ppl can say that when Trump has won 22states', 720368112135192576L: "Earlier @MMViverito reaffirmed Sec. Clinton's active support of Latino community w @DoloresHuerta &amp; Dan-El Padilla https://t.co/1LynsStMqq", 720368461940043776L: '@meetthepress Trump fights RNC.Keeping his base angry!He is a very lonely man at the top General election, People will run to elect Hillary'}
-STATE ID:  17 
-Tweets:  {720367784136343552L: '@NewsHillbilly just got blocked for first time today #ImWithHer #hillary2016 #standwithhillary'}
-STATE ID:  18 
+STATE:  Kansas  ID:  16 
+Tweets:  {720370228106899457L: 'Me either.  https://t.co/aHmMldJmDf', 720370241390268417L: "@FoxBusiness @tedcruz @realDonaldTrump I don't agree with anything Cruz says"}
+STATE:  Kentucky  ID:  17 
+Tweets:  {720370711974539264L: 'New conspiracy theory: guy in SOHS rape scene is Ted Cruz is the zodiac killer https://t.co/Bn6KgUztND', 720370986328133632L: '#Trump in 2016 Temp:66.2F Wind:0.0mph Pressure: 30.09hpa Falling Rain Today 0.00in.  Forecast: Showery, becoming less settled', 720371830146670592L: '#MurrayStateACS\n#funny\nWhen I heard Donald Trump might win ', 720370991839350784L: '@tcooper9999 @xdelmar59 @upayr Rest your cursor on VT .... Sanders voted YES https://t.co/zCxUaQoWS7'}
+STATE:  Louisiana  ID:  18 
+Tweets:  {720370273405394944L: "It's like bill said: Every 4 years the republicans become centrist, every 4 years the Clintons believe BLM https://t.co/aP0ZabwCi6", 720370726138556416L: 'tp://college.usatoday.com/2016/04/13/tulane-students-fire-back-at-fraternitys-pro-trump @llllils your tweets in here!!', 720370280103698434L: 'https://t.co/jp8gueMMK1 I.....HUH??????????????', 720371463849545728L: "This can't be true @costareports. Everyone knows Trump is an outsider with no connection to party operatives."}
+STATE:  Massachusetts  ID:  19 
+Tweets:  {720370767221891073L: '@AngryVoters amazing how non of her supporters care, or even remember 2008 campaign! #FeelTheBern'}
+STATE:  Maryland  ID:  20 
+Tweets:  {720370274193924096L: '@jaketapper @brynnCNN I wonder what Scoop Jackson would make of Bernie Sanders?', 720372006311448577L: 'I agree caucuses are totally undemocratic and should be eliminated https://t.co/4h1hL5fXaY', 720371148593197056L: "Let's welcome him to town. https://t.co/uQ6z45uQfO"}
+STATE:  Maine  ID:  21 
 Tweets:  {}
-STATE ID:  19 
+STATE:  Michigan  ID:  22 
+Tweets:  {720371232424599552L: "I'd rather learn from one bird how to sing than teach ten thousand stars how not to dance  E.E. Cummings #FeelTheBern", 720371719429623808L: "I wouldn't go either. ESTABLISHMENT AS BAD AS TRUMP. THEY WANT EVERYTHING THEIR WAY. TO HELL WITH VOTERS. #mad https://t.co/HMO2ZKyxBQ", 720370553153011712L: 'They r actors. Empty inside like their candidate. 2 busy reading scripts 2 do homework.#mad https://t.co/4j7bfwWKHw', 720370801514528769L: "@A_Real_Gator it wasn't in response to Trump. It's a part of capture the flag done during KA formal week. Video is out of context"}
+STATE:  Minnesota  ID:  23 
+Tweets:  {720370710569308160L: "Stop being Trump. THEN you'll be elected.  #MyAdviceToTrump", 720370300248989699L: '@WoodCarma Cuz there are 2 many RINOS &amp; not enough conservatives, i.e.:Cruz, Lee, Rubio, Paul, etc...', 720371349642870784L: '@tedcruz  talks about Trump complaining, just got another email from Ted Cruz whining for money'}
+STATE:  Missouri  ID:  24 
+Tweets:  {720371780246855680L: '@SpecialReport #specialreport @BretBaier even your #LeadStory tonight demonstrates why of all the #candidates of ANY side we need #Trump2016', 720370651077324800L: 'Mr trump lifetime jobs in all government has got to be banned.not that hard.'}
+STATE:  Mississippi  ID:  25 
 Tweets:  {}
-STATE ID:  20 
+STATE:  Montana  ID:  26 
 Tweets:  {}
-STATE ID:  21 
-Tweets:  {720367997748011009L: 'I would love to show you my #listing at 126 Railroad ST #Clinton #ME https://t.co/TqONA4nMFT #realestate https://t.co/QAdpxy2WYe'}
-STATE ID:  22 
-Tweets:  {720367795444260864L: "Oh my god..... That's hilariously gross https://t.co/uz36WMUSMN"}
-STATE ID:  23 
-Tweets:  {720368352456105984L: 'Be worried Mrs. CLINTON fans! https://t.co/cBEbE3X4uw', 720367558436593665L: '@BeautyBind @zeframmann @ChrisWarcraft Desensitized? I love the sentiment here, but Americans need to stop pretending Trump is something new'}
-STATE ID:  24 
+STATE:  North Carolina  ID:  27 
 Tweets:  {}
-STATE ID:  25 
+STATE:  North Dakota  ID:  28 
 Tweets:  {}
-STATE ID:  26 
+STATE:  Nebraska  ID:  29 
 Tweets:  {}
-STATE ID:  27 
-Tweets:  {720367913132171264L: '@MTP  @MSNBC we NEED a candidate that will take America to a BETTER future Bernie Sanders should be and will be OUR President'}
-STATE ID:  28 
+STATE:  New Hampshire  ID:  30 
+Tweets:  {720371778820833280L: "@MSNBC I'm already betting zillion$$ this gets less air time than Bernie or Trump's day today\n\nLOVE these kinds of endorsements!\n@dthomicide"}
+STATE:  New Jersey  ID:  31 
+Tweets:  {720372180979089408L: 'The Ted Cruz flat tax plan: https://t.co/kU7QKKM7cl'}
+STATE:  New Mexico  ID:  32 
 Tweets:  {}
-STATE ID:  29 
-Tweets:  {720367782836047873L: 'Listen to Thigh Kisser (prod by d. sanders) by YE Ali #np on #SoundCloud\nhttps://t.co/WJUqMBp4FQ - this is my shitttr'}
-STATE ID:  30 
+STATE:  Nevada  ID:  33 
+Tweets:  {720371104586436609L: "#MyAdviceToTrump Don't take advice from supporters who think all your businesses are successful. #TrumpBankruptcy https://t.co/gCHz9qCLEe", 720371798722785280L: 'Douch!  https://t.co/zQ9cKvHCs6', 720372108434354177L: 'Fuck their taxes, show us yours!  https://t.co/mGz1L4yN6g'}
+STATE:  New York  ID:  34 
+Tweets:  {720372105292881921L: 'Trump Bros build wall; pay for it:\nhttps://t.co/XgIZCIFBQP', 720371161230663680L: '#JaneSanders when @BernieSanders is asking her to get the #Returns ready for public view. #ImWithHer #TeamHillary https://t.co/83J4ec6BTT', 720370760250822656L: 'Bern Baby Bern ! #FeelTheBern live in #NYC  https://t.co/7xQEI2tNZ7', 720370767762997248L: "I can't really remember how much animosity there was btw Clinton and Obama supporters in 08 or not other than the PUMA people", 720370910990110720L: '#feelthebern #feelthebern2016 @ Washington Square Park https://t.co/KzYTHYB3cq', 720371848123453440L: 'Seriously?!  https://t.co/VOEHC5fdKw', 720371944386727936L: 'Obviously @tedcruz is more knowledgeable and a better negotiator than Trump. #MyAdviceToTrump is to stop whining. https://t.co/qoerAI9Z5N', 720370785903357952L: '.@NcolPhillip landed internship @nyu_journalism career fair, leading to 1st job! Says Marlene Sanders class helped https://t.co/TB7r39VMqV', 720370243923742720L: 'but he was beating her by double digits on every poll.  Then they thought of a brilliant plan: ask Donald Trump 2 run &amp; destroy all the cand', 720371353283506176L: '\n\n#BernieBecause #feelthebern #blacklivesmatter @ Washington Square Park https://t.co/hQKs369hEp', 720371631168757760L: '@lewgeraldine RITGHT ON I WILL STAY HOME" IF "TRUMP" DONT GET THE NOMINATION, AND ALL THE VOTES I GOT FOR HIM, WILL DO THE SAMEOHIO#', 720370258591293440L: 'Why is Ben Carson so bad at campaigning for Trump? The same reason he was bad at campaigning for Carson. https://t.co/X3v1y2zudX', 720371930356916224L: 'She prolly own stocks https://t.co/iR9S1Pv4cF', 720372108178493440L: "Clinton &amp; surrogates continue to mislead on Bernie's immigration record. Forget to mention she denied Undocu-New Yorkers the right to drive.", 720370243508518912L: 'Why is Ben Carson so bad at campaigning for Trump? The same reason he was bad at campaigning for Carson. https://t.co/fn266CGhSE', 720371130914250752L: 'LMAO!  In short, running for president is hard. https://t.co/3rjrDDZMOx', 720370805809373185L: "@LukeRussert @Flickr #Trump would probably think this guy's a loser for getting a shattered hand\n#veterans", 720371625523187712L: '@SlimTim925 @_HankRearden Would think that SOME of them must realize that voting for Cruz is voting for Hillary'}
+STATE:  Ohio  ID:  35 
+Tweets:  {720372130630610945L: "And she's still your sister? https://t.co/PnUAguZ4cn", 720370243256758273L: '@hardball @JohnKasich @hardball_chris   Kasich is a fool.....'}
+STATE:  Oklahoma  ID:  36 
+Tweets:  {720370627463348229L: '@vapemyworld @elonjames This. Are there actually any non-suspect reasons to support Trump?'}
+STATE:  Oregon  ID:  37 
+Tweets:  {720371055399796736L: '@BernieSanders how dare you make 1 industry immune from redress by the ppl thru the courts. Man of the ppl my ass! https://t.co/zhpW4iDIS9', 720370547612196864L: '@charlotteole1  States have sovereign rights 2 choose which method 2 use 4 Primary. It has worked well 4 decades. Now #TRUMP is whining! Ugh', 720371645509054465L: '@danmericaCNN @MikeElk wtf - Clinton chastising Verizon workers for striking after Verizon has stonewalled them with unfair labor practices?', 720371131635539968L: '@justinplumbing1 LOL at least he keeps his pants zipped unlike #Cruz!'}
+STATE:  Pennsylvania  ID:  38 
+Tweets:  {720371893530968064L: 'Hornbostel is probably turning in his grave https://t.co/NuSBwYbIqp', 720371552546590721L: 'pitt students protest trump https://t.co/gZGyCcDOY3', 720371357465182210L: 'AZ Cop: Felt Safe W/Trump Supporters, But Protesters Were Dangerous https://t.co/vvcBOfcfS5 Marxist Agitators #tcot https://t.co/MqxGhGwnpG', 720371247410843649L: 'I have never, ever been more thankful that my commute home is nothing more than a leisurely walk. #trump #pirates #penguins #etc #etc', 720372039257821186L: 'Fuck trump ', 720371831966969856L: 'This Delaware Address Is Home to 200,000 Shell CompaniesIncluding Hillary Clintons https://t.co/WNIqh11kUZ', 720370737605971968L: "Running out of innocuous attacks on Bernie, now they're going after Jane Sanders. If you can't kill the message, go after the messenger.", 720371701289095169L: 'Donald Trump is the child of the corn'}
+STATE:  Rhode Island  ID:  39 
 Tweets:  {}
-STATE ID:  31 
-Tweets:  {720368497877000192L: "@leahmeyer49: @TrumpUpAm. I Pray them Out Here Daily! Ur Karma gonna2getU--Threaten'g!\n@realDonaldTrump Fights ISIS! Safe America...Cruz-NO"}
-STATE ID:  32 
-Tweets:  {720367774686584832L: 'WOW! Anti-Trump RNC Delegate Says Shell Vote for Hillary Over Trump (VIDEO) https://t.co/sPqdDlUEIW via @gatewaypundit #MORON'}
-STATE ID:  33 
+STATE:  South Carolina  ID:  40 
+Tweets:  {720371745883033600L: 'This shit too funny.\nTrump supporters some little bitches hiding in the shadows  https://t.co/Shcno41QPD', 720371577880051713L: "The shit Bernie Sanders has been doing at 74 are things I can't imagine doing at age 22. Let that sink in. #tytlive", 720371547592982529L: "@AnnCoulter have you seen Steven King's Dead Zone .. cruz reminds me of senator stillman ... make the sand glow .."}
+STATE:  South Dakota  ID:  41 
 Tweets:  {}
-STATE ID:  34 
-Tweets:  {720368149531619328L: '@realDonaldTrump all those POTHEADS stole Mr. Trump votes.  Lying TED is a CROOK who wants to win the nomination at all cost', 720368153415405568L: "@ShesWithUs2016 @RealGM4Hillary It's obvious, Barbara Burke's resentments have often derailed her efforts to help Hillary Clinton's campaign", 720368311834451972L: '@sandiv11 @HouseCracka Yes exactly - all 3 big govt, constitution illiterate hacks- like progressive populist Trump. Why We Must Pick Cruz!', 720367781468766208L: 'On the Nightly Show with Larry Wilmore, Sanders says that having southern states go early in Democratic primary "distorts reality"', 720368058972418049L: "not because ppl liked Sanders as much as they disliked her. Then came the threat of Biden. I'm sure that Obama convinced Biden NOT 2 run.", 720367941196390400L: 'SO much LOVE from NY @HillaryClinton supporters the day before our big debate! &lt;3 U ALL! #ImWithHer #HillaryForAmerica #NewYorkersforHillary', 720368236026462208L: "Sanders Responds to Disgruntled CEOs: 'I Welcome Their Contempt' - https://t.co/yYs89FxhTE the hell does one ceo do to deserve so much money", 720367693539512320L: 'Zuckerberg comments yesterday off base. He has security, Americans deserve securitY TOO. And by the way, Mark, Trump actually BUILDS things!', 720368523214725120L: 'Pandemonium here at the #BernieRally. Still waiting to get into WshSqPk. Lots of Berners out today. #FeelTheBern #NYPrimary', 720367647213236224L: 'you cant trust ONE american white person they all terrible. donald trump hillary clinton, yesjulz lmao'}
-STATE ID:  35 
-Tweets:  {720368138039066624L: 'WOW! Anti-Trump RNC Delegate Says Shell Vote for Hillary Over Trump (VIDEO) https://t.co/EwbM0Y1kEA via gatewaypundit', 720367636429844480L: "politics make people fucking INSANE. I dislike Donald trump, but I will respect views, and not figuratively shit on people's beliefs.", 720367647687204864L: 'Difference between Clinton &amp; Sanders: He walked out w striking #Verizon workers. She showed up to shake hands after seeing his warm welcome.'}
-STATE ID:  36 
+STATE:  Tennessee  ID:  42 
+Tweets:  {720371667294269445L: "@MTP @SteveKornacki BS We're Talking About A Casino Owner or Former Trump If He Didn't Know The Rules Of The Game He Shouldn't Play Period!"}
+STATE:  Texas  ID:  43 
+Tweets:  {720372048225181697L: 'Vote Trump never Cruz  https://t.co/78dUdCd6Ft', 720371851285823489L: 'I really hate some people in this country  https://t.co/lO4nA5M5Ie', 720370764784881664L: 'No vote Trump never Cruz  https://t.co/28BhqsDX9C', 720371315819958272L: 'Vote Trump never Cruz ever  https://t.co/tTSugwD7iy', 720370358470115328L: 'Vote Trump never Cruz  https://t.co/pKcUlOgKwY', 720370370147012608L: "@michaelallenmar If she gets the nomination, there won't be any reuniting the party. #Hillary2016 #FeelTheBern", 720371879815438336L: 'Vote Trump Never Cruz  https://t.co/tgSMWbt7Aw', 720370524778401793L: 'Vote Trump never Cruz  https://t.co/oDeOkRpdXO', 720371623770005505L: 'Vote Trump never Cruz  https://t.co/txTqZxu0Zf', 720371497634693121L: 'Vote Trump never Cruz ever  https://t.co/zgJmKUBZ38', 720371503422840833L: 'This guys more mobster than mobsters Cruz campaign offers Official Deputy Delegates for $35 through email fundraiser https://t.co/1iDa8icHdo', 720372059696594944L: 'Top Ted Cruz Activist Jumps Ship  Joins DEFECTIONS: Donald Trump Campaign - World News Politics https://t.co/WzgVc8vbem', 720371496682696708L: '@SenSanders your supporters at the Washington Square Park rally agree! @nyuniversity #FeelTheBern #nyu #BernieInNY https://t.co/augz8fc7VG', 720372021691949056L: '@tedcruz @heidicruz @cnn watch the clown Cruz &amp; wife who is material for Botched series instead of First Lady', 720370711114612738L: "He's a joke!!! https://t.co/hn6kC0Hj9t"}
+STATE:  Utah  ID:  44 
+Tweets:  {720371000383119360L: '@pjpaton @realDonaldTrump Trump &amp; family ARE Democrats!!!'}
+STATE:  Virginia  ID:  45 
+Tweets:  {720372053447081984L: "Can any one tell me a time Donnie Trump didn't whine, cry and blame others when he had a setback", 720371065126432768L: '#EmilysList President, Stephanie Schriock is an active Hillary Clinton surrogate. #TheMoreYouKnow #NotMeUs', 720372169394360320L: 'Bernie Sanders Reaches Down Ballot To Expand His Political Revolution https://t.co/69iv447siI', 720371676383293441L: 'Executive director of Priorities USA Action (Clinton super Pac) Anne Caprara is a former #EmilysList Official #TheMoreYouKnow #NotMeUs', 720371317078253570L: "@jasonomahony Well, I expect we'll see Hillary have to comment on this one, too. https://t.co/p5U4y3LySD"}
+STATE:  Vermont  ID:  46 
 Tweets:  {}
-STATE ID:  37 
-Tweets:  {}
-STATE ID:  38 
-Tweets:  {720367716146749441L: 'just waiting to hear the total number of homicides post Donald Trump coming to Pittsburgh today.', 720368134692077569L: 'To use Trump\'s word "Unpredictable" https://t.co/HGaDMYMrz4', 720368147342057472L: "// Pretending Donald Trump isn't on my campus on this beautiful day // @ Frick Fine Arts Building https://t.co/Ho8q7INTIq", 720368422660362241L: "i gave Hillary Clinton money so she's in with me too... she is beholden to all who whisper her name", 720367738133151745L: 'How to improve your sex life, according to @HPLifestyle, is apparently what Ted Cruz did a lot of in college. #BusTED', 720367926117675008L: "We're finally getting Sanders and Clinton ads here in PA. I guess the primary is finally happening soon.", 720367930505064448L: 'Protestors at #Trump in Pittsburgh @CBSPittsburgh https://t.co/xTgURuZUoe', 720367696844611587L: 'protesting the trump rally like:\n\n"the Krusty Krab is unfair\nMr. Krabs is in there \nStanding at the concession\nPlotting his oppression"', 720368539622891520L: 'Got to see some of the Trump shitshow at Pitt in person today #TrumpPGH https://t.co/5BnvWH2B4p'}
-STATE ID:  39 
-Tweets:  {720368424539549696L: 'Now speaking Kerry re torture. Under no condition ever ever ever do we use torture. It is not part of our values. Hope TRUMP was listening.'}
-STATE ID:  40 
-Tweets:  {720367909609086976L: 'Good grief, I "liked" a funny pic of Cruz and now I\'m getting all these tweets from Trump followers! Give me strength!!', 720368439567773696L: 'That is why he is being paid to stay in race, to keep Trump out! Pure crap! https://t.co/oAQkNfJT6k'}
-STATE ID:  41 
-Tweets:  {}
-STATE ID:  42 
-Tweets:  {}
-STATE ID:  43 
-Tweets:  {720368480181051393L: 'Cruz argues that he does not wish to be sold into slavery. https://t.co/2rjfAOGrAB', 720367694575378432L: 'God damn Ted Cruz is ugly af', 720368356155494400L: '.@Reince @GOPconvention explain Trump delegates not notified of closed mtgs, dismissed &amp; replaced w/ Cruz delegates - after receiving perks.', 720368244243075072L: "@FoxBusiness @tlrc88 @realDonaldTrump And having Trump Tee shirt wearing poll workers in NV wasn't provocative?"}
-STATE ID:  44 
-Tweets:  {720368346156302337L: '@FactorsTalcott @tracieeeeee @realDonaldTrump Trump is incompetent or Complicit!!!'}
-STATE ID:  45 
-Tweets:  {720368388590022656L: 'Nike Air T.R Cruz Haystack \nSize 8 $200\nSize 10 $200 \nLINK IN BIO to buy https://t.co/UwK79FFG04'}
-STATE ID:  46 
-Tweets:  {}
-STATE ID:  47 
-Tweets:  {720367605454778369L: 'Hysterical  https://t.co/pnfBO77mBP'}
-STATE ID:  48 
-Tweets:  {720367595627655169L: 'Not only will it go up with a Bernie Sanders presidency, there is little guarantee we will get the services in return. #FeelTheBern', 720368289122291712L: 'The past 100+ years shows just how well that small contingent of people, called Congress, spends the money of 318 million. #FeelTheBern'}
-STATE ID:  49 
-Tweets:  {}
-STATE ID:  50 
+STATE:  Washington  ID:  47 
+Tweets:  {720371056872034304L: '@SenSanders Bernie Sanders Lies About his Lie About Israel https://t.co/LRn5wCrrbD', 720371964901138433L: '@verizon chief operating boy "Sanders does not understan..blah blah bla" Here is what YOU don\'t understand chump- #YoureBerned! #FeelTheBern', 720370269894762497L: "watching The Big Short what an awesome movie it is, but it also makes me realize these disgusting Wall St people R Hillary Clinton's friends", 720370689308405760L: 'Been waiting for my UNION TO ENDORSE @HillaryClinton  https://t.co/TInTbA13gH', 720371129576071172L: 'My only surprise at that news is the carpetbagging Clintons have only five tax haven accounts. #FeelTheBern  https://t.co/BFot2vZaMV', 720370456839065601L: '@VerizonWorkers #TheyDonatedYourPayToHer now shake shake shake it off #HillaryOozesPoorJudgement on sidewalk https://t.co/sQiYXihXzX'}
+STATE:  Wisconsin  ID:  48 
+Tweets:  {720371043932569602L: "@ThePatriot143 @Reince You've all been on break, that's why we want #Trump. He'll get things done.", 720370361863278593L: '@howe2cher @cher  Cruz actually scares me more.', 720371639351816192L: 'Bernie says Verizon can pay workers more.  Hillary tells workers to come back, negotiate. Hillary sides w the boss\n https://t.co/2ub6urAOnO', 720371465808408576L: '@TruthSmackdown @proteinwisdom BTW - loved your piece. Trump seems OK to employ biz rules for bankruptcies and eminent domain. Hypocrite.', 720370282960060416L: "@OldGlory007 I think once Trump gets in, she'll have lots of company", 720371118608003074L: "Couldn't be clearer. What side YOU on? https://t.co/DXPRqcfKKP"}
+STATE:  West Virginia  ID:  49 
+Tweets:  {720371520355192832L: '@FoxNews tonight on the Greta van trumpster show we will have someone to praise Donald trump and pretend it is an interview'}
+STATE:  Wyoming  ID:  50 
 Tweets:  {}
